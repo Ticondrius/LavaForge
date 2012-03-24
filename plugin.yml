@@ -1,3 +1,6 @@
 name: Lava Forge
+version: 1.2.4
+description: This plugin changes furnaces to not eat the bucket when using a bucket of lava to fuel them.
+author: zonedabone
+
 main: zonedabone.LavaForge.LavaForge
-version: 1.0.0
